@@ -1,0 +1,40 @@
+
+["AI Control"]
+	# Mob AI will be controlled to reduce entity lag.
+	MobAIControl = true
+	#Distance that a player has to be before the AI is turned on (X and Z)
+	#Range: 5.0 ~ 500.0
+	ActivationRadius = 40.0
+	#Activation Radius but for the Y coordinate. Useful for caves.
+	#Range: 5.0 ~ 500.0
+	ActivationHeight = 10.0
+	#Activation radius for mobs in the vault.
+	#Range: 48.0 ~ 500.0
+	VaultActivationRadius = 96.0
+	# This will DRASTICALLY improve your tps, at the cost of only allowing a wave of mobs to spawn at night time. This does not affect world generation mobs, or mob spawners.
+	extremeMode = true
+
+[Other]
+	# Remove raid effects from users upon leaving the vault
+	VaultRaidEffect = false
+	# List of users that will not be kicked during lockdown.
+	ExemptUsernames = ["DogV2", "Crystlestar", "kirigames", "lazypenguin10"]
+	# DEDICATED Pterodactyl only! Vault Hunter pterodactyl servers dont tend to fully shut down after the minecraft server does. This will make sure it does.
+	pteroKill = true
+
+["Smooth Saving"]
+	#Delay before your chunk is saved to disk. Defaults to 5 minutes // 300 seconds
+	#Range: 100 ~ 3600
+	chunkSaveDelay = 300
+	#Amount of chunks to be saved per tick. You can increment this, but 10 is recommended; 5 minutes have 6000 ticks, which can save 60,000 chunks.
+	#Range: 5 ~ 100
+	chunksPerTick = 20
+	#Enables debug logging. Intended for testing purposes, this will spam your console. Hard.
+	debugLogging = false
+
+["Crash Detection"]
+	# Paste a Discord Webhook URL in order to enable crash detection. Logs will be sent directly to discord.
+	webhookURL = "https://discord.com/api/webhooks/1326220839598817343/EcLoCHAezcMrZHwNOmi2Wg4XxdjwOgkhn_dg8OYc7cLMs3HeOfDycGtgd5O1_oWL9y1b"
+	# Whether to ping @everyone upon a crash (make your channel private..)
+	PingOnCrash = false
+

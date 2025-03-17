@@ -1,0 +1,94 @@
+{
+  "styles": {
+    "Lucky_Altar": {
+      "x": 165,
+      "y": -5,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/lucky_altar"
+    },
+    "Bartering": {
+      "x": 325,
+      "y": -5,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/bartering"
+    },
+    "Artisan": {
+      "x": 555,
+      "y": 65,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/blacksmithing"
+    },
+    "Jeweler": {
+      "x": 555,
+      "y": -5,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/jeweller"
+    },
+    "Angel": {
+      "x": 25,
+      "y": 215,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/angel"
+    },
+    "Bounty_Hunter": {
+      "x": 395,
+      "y": -5,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/bounty_hunter"
+    },
+    "Marketer": {
+      "x": 95,
+      "y": 285,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/marketer"
+    },
+    "Unbreakable": {
+      "x": 485,
+      "y": 215,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/unbreakable"
+    },
+    "Divine": {
+      "x": 325,
+      "y": 250,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/divine"
+    },
+    "Trinketer": {
+      "x": 255,
+      "y": -5,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/trinketer"
+    },
+    "Mystic": {
+      "x": 95,
+      "y": -5,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/mystic"
+    },
+    "Infuser": {
+      "x": 25,
+      "y": -5,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/infuser"
+    },
+    "Experienced": {
+      "x": 165,
+      "y": 215,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/experienced"
+    },
+    "Fortunate": {
+      "x": 95,
+      "y": 215,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/fortunate"
+    },
+    "Fortuitous_Finesse": {
+      "x": 625,
+      "y": -5,
+      "frameType": "STAR",
+      "icon": "the_vault:gui/skills/fortuitous_finesse"
+    }
+  }
+}

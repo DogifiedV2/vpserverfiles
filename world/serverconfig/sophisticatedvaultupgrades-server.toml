@@ -1,0 +1,90 @@
+
+#Server Settings
+[server]
+	#Range that a Debagnetizer will effect pickup upgrades.
+	"Debagnetizer Range" = 32
+
+	#Diffuser Upgrade Settings
+	[server.diffuserUpgrade]
+		#Number of Diffuser Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+		#Determines whether diffuser upgrade allows diffusing anything or it only has overflow option
+		diffuseAnythingEnabled = true
+
+	#Advanced Diffuser Upgrade Settings
+	[server.advancedDiffuserUpgrade]
+		#Number of Advanced Diffuser Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+		#Determines whether diffuser upgrade allows diffusing anything or it only has overflow option
+		diffuseAnythingEnabled = true
+
+	#Recycler Upgrade Settings
+	[server.recyclerUpgrade]
+		#Number of Recycler Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+		#Determines whether recycler upgrade allows recycling anything or it only has overflow option
+		recycleAnythingEnabled = true
+
+	#Advanced Recycler Upgrade Settings
+	[server.advancedRecyclerUpgrade]
+		#Number of Advanced Recycler Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+		#Determines whether recycler upgrade allows recycling anything or it only has overflow option
+		recycleAnythingEnabled = true
+
+	#Drop Upgrade Settings
+	[server.dropUpgrade]
+		#Number of Drop Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 3
+		#Determines whether drop upgrade allows dropping anything or it only has overflow option
+		dropAnythingEnabled = true
+
+	#Advanced Drop Upgrade Settings
+	[server.advancedDropUpgrade]
+		#Number of Advanced Drop Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+		#Determines whether drop upgrade allows dropping anything or it only has overflow option
+		dropAnythingEnabled = true
+
+	#Identification Upgrade Settings
+	[server.IdentificationUpgrade]
+		#Number of Identification Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 9
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+
+	#Advanced Identification Upgrade Settings
+	[server.advancedIdentificationUpgrade]
+		#Number of Advanced Identification Upgrade's filter slots
+		#Range: 1 ~ 20
+		filterSlots = 16
+		#Number of filter slots displayed in a row
+		#Range: 1 ~ 6
+		slotsInRow = 4
+

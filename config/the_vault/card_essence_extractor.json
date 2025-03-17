@@ -1,0 +1,44 @@
+{
+  "tierConfigs": {
+    "1": {
+      "extractTickTime": 10,
+      "essencePerCard": {
+        "min": 1,
+        "max": 1
+      },
+      "essencePerUpgrade": 10
+    },
+    "2": {
+      "extractTickTime": 10,
+      "essencePerCard": {
+        "min": 15,
+        "max": 30
+      },
+      "essencePerUpgrade": 25
+    },
+    "3": {
+      "extractTickTime": 10,
+      "essencePerCard": {
+        "min": 20,
+        "max": 35
+      },
+      "essencePerUpgrade": 50
+    },
+    "4": {
+      "extractTickTime": 10,
+      "essencePerCard": {
+        "min": 40,
+        "max": 80
+      },
+      "essencePerUpgrade": 100
+    },
+    "5": {
+      "extractTickTime": 10,
+      "essencePerCard": {
+        "min": 100,
+        "max": 130
+      },
+      "essencePerUpgrade": 200
+    }
+  }
+}

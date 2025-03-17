@@ -1,0 +1,252 @@
+{
+  "tile_processors": [
+    {
+      "type": "weighted_target",
+      "target": "minecraft:red_glazed_terracotta",
+      "output": {
+        "tnt[unstable=true]": 1
+      }
+    },
+    {
+      "type": "leveled",
+      "levels": [
+        {
+          "level": 0,
+          "type": "weighted_target",
+          "target": "minecraft:light_gray_glazed_terracotta",
+          "output": {
+            "the_vault:raw_chromatic_iron_block": 20,
+            "woldsvaults:compressed_vault_essence": 10,
+            "woldsvaults:chromatic_gold_block": 10,
+            "compressium:stone_2": 10,
+            "compressium:sand_2": 10,
+            "compressium:gravel_2": 10,
+            "compressium:andesite_2": 10,
+            "compressium:snow_2": 10,
+            "compressium:diorite_2": 10,
+            "compressium:granite_2": 10,
+            "compressium:dirt_2": 10,
+            "compressium:netherrack_2": 10,
+            "compressium:obsidian_2": 4,
+            "compressium:soulsand_2": 4,
+            "compressium:endstone_2": 4,
+            "compressium:clay_2": 4
+          }
+        },
+        {
+          "level": 25,
+          "type": "weighted_target",
+          "target": "minecraft:light_gray_glazed_terracotta",
+          "output": {
+            "the_vault:raw_chromatic_iron_block": 20,
+            "woldsvaults:compressed_vault_essence": 10,
+            "woldsvaults:chromatic_gold_block": 10,
+            "compressium:stone_2": 10,
+            "compressium:sand_2": 10,
+            "compressium:gravel_2": 10,
+            "compressium:andesite_2": 10,
+            "compressium:snow_2": 10,
+            "compressium:diorite_2": 10,
+            "compressium:granite_2": 10,
+            "compressium:dirt_2": 10,
+            "compressium:netherrack_2": 10,
+            "compressium:obsidian_2": 4,
+            "compressium:soulsand_2": 4,
+            "compressium:endstone_2": 4,
+            "compressium:clay_2": 4,
+            "compressium:cobblestone_3": 1,
+            "compressium:stone_3": 1,
+            "compressium:sand_3": 1,
+            "compressium:gravel_3": 1,
+            "compressium:andesite_3": 1,
+            "compressium:snow_3": 1,
+            "compressium:diorite_3": 1,
+            "compressium:granite_3": 1,
+            "compressium:dirt_3": 1,
+            "compressium:netherrack_3": 1
+          }
+        },
+        {
+          "level": 50,
+          "type": "weighted_target",
+          "target": "minecraft:light_gray_glazed_terracotta",
+          "output": {
+            "the_vault:raw_chromatic_iron_block": 20,
+            "woldsvaults:compressed_vault_essence": 10,
+            "woldsvaults:chromatic_gold_block": 10,
+            "compressium:cobblestone_3": 10,
+            "compressium:stone_3": 10,
+            "compressium:sand_3": 10,
+            "compressium:gravel_3": 10,
+            "compressium:andesite_3": 10,
+            "compressium:snow_3": 10,
+            "compressium:diorite_3": 10,
+            "compressium:granite_3": 10,
+            "compressium:dirt_3": 10,
+            "compressium:netherrack_3": 10,
+            "compressium:obsidian_3": 4,
+            "compressium:soulsand_3": 4,
+            "compressium:endstone_3": 4,
+            "compressium:clay_3": 4
+          }
+        },
+        {
+          "level": 75,
+          "type": "weighted_target",
+          "target": "minecraft:light_gray_glazed_terracotta",
+          "output": {
+            "the_vault:raw_chromatic_iron_block": 20,
+            "woldsvaults:compressed_vault_essence": 10,
+            "woldsvaults:chromatic_gold_block": 10,
+            "compressium:cobblestone_3": 30,
+            "compressium:stone_3": 30,
+            "compressium:sand_3": 30,
+            "compressium:gravel_3": 30,
+            "compressium:andesite_3": 30,
+            "compressium:snow_3": 30,
+            "compressium:diorite_3": 30,
+            "compressium:granite_3": 30,
+            "compressium:dirt_3": 30,
+            "compressium:netherrack_3": 30,
+            "compressium:obsidian_3": 12,
+            "compressium:soulsand_3": 12,
+            "compressium:endstone_3": 12,
+            "compressium:clay_3": 12,
+            "compressium:cobblestone_4": 1,
+            "compressium:stone_4": 1,
+            "compressium:sand_4": 1,
+            "compressium:gravel_4": 1,
+            "compressium:andesite_4": 1,
+            "compressium:snow_4": 1,
+            "compressium:diorite_4": 1,
+            "compressium:granite_4": 1,
+            "compressium:dirt_4": 1,
+            "compressium:netherrack_4": 1,
+            "compressium:soulsand_4": 1,
+            "compressium:endstone_4": 1,
+            "compressium:clay_4": 1
+          }
+        }
+      ]
+    },
+    {
+      "type": "leveled",
+      "levels": [
+        {
+          "level": 0,
+          "type": "weighted_target",
+          "target": "minecraft:light_blue_glazed_terracotta",
+          "output": {
+            "the_vault:raw_chromatic_iron_block": 15,
+            "woldsvaults:compressed_vault_essence": 10,
+            "woldsvaults:chromatic_gold_block": 10,
+            "compressium:stone_2": 10,
+            "compressium:sand_2": 10,
+            "compressium:gravel_2": 10,
+            "compressium:andesite_2": 10,
+            "compressium:snow_2": 10,
+            "compressium:diorite_2": 10,
+            "compressium:granite_2": 10,
+            "compressium:dirt_2": 10,
+            "compressium:netherrack_2": 10,
+            "compressium:obsidian_2": 4,
+            "compressium:soulsand_2": 4,
+            "compressium:endstone_2": 4,
+            "compressium:clay_2": 4
+          }
+        },
+        {
+          "level": 25,
+          "type": "weighted_target",
+          "target": "minecraft:light_blue_glazed_terracotta",
+          "output": {
+            "the_vault:raw_chromatic_iron_block": 15,
+            "woldsvaults:compressed_vault_essence": 10,
+            "woldsvaults:chromatic_gold_block": 10,
+            "compressium:stone_2": 10,
+            "compressium:sand_2": 10,
+            "compressium:gravel_2": 10,
+            "compressium:andesite_2": 10,
+            "compressium:snow_2": 10,
+            "compressium:diorite_2": 10,
+            "compressium:granite_2": 10,
+            "compressium:dirt_2": 10,
+            "compressium:netherrack_2": 10,
+            "compressium:obsidian_2": 4,
+            "compressium:soulsand_2": 4,
+            "compressium:endstone_2": 4,
+            "compressium:clay_2": 4,
+            "compressium:cobblestone_3": 1,
+            "compressium:stone_3": 1,
+            "compressium:sand_3": 1,
+            "compressium:gravel_3": 1,
+            "compressium:andesite_3": 1,
+            "compressium:snow_3": 1,
+            "compressium:diorite_3": 1,
+            "compressium:granite_3": 1,
+            "compressium:dirt_3": 1,
+            "compressium:netherrack_3": 1
+          }
+        },
+        {
+          "level": 50,
+          "type": "weighted_target",
+          "target": "minecraft:light_blue_glazed_terracotta",
+          "output": {
+            "the_vault:raw_chromatic_iron_block": 15,
+            "woldsvaults:compressed_vault_essence": 10,
+            "woldsvaults:chromatic_gold_block": 10,
+            "compressium:cobblestone_3": 6,
+            "compressium:stone_3": 6,
+            "compressium:sand_3": 6,
+            "compressium:gravel_3": 6,
+            "compressium:andesite_3": 6,
+            "compressium:snow_3": 6,
+            "compressium:diorite_3": 6,
+            "compressium:granite_3": 6,
+            "compressium:dirt_3": 6,
+            "compressium:netherrack_3": 6,
+            "compressium:obsidian_3": 1,
+            "compressium:soulsand_3": 1,
+            "compressium:endstone_3": 1,
+            "compressium:clay_3": 1
+          }
+        },
+        {
+          "level": 75,
+          "type": "weighted_target",
+          "target": "minecraft:light_blue_glazed_terracotta",
+          "output": {
+            "the_vault:raw_chromatic_iron_block": 15,
+            "woldsvaults:compressed_vault_essence": 10,
+            "woldsvaults:chromatic_gold_block": 10,
+            "compressium:cobblestone_3": 8,
+            "compressium:stone_3": 8,
+            "compressium:sand_3": 8,
+            "compressium:gravel_3": 8,
+            "compressium:andesite_3": 8,
+            "compressium:snow_3": 8,
+            "compressium:diorite_3": 8,
+            "compressium:granite_3": 8,
+            "compressium:dirt_3": 8,
+            "compressium:netherrack_3": 8,
+            "compressium:obsidian_3": 2,
+            "compressium:soulsand_3": 2,
+            "compressium:endstone_3": 2,
+            "compressium:clay_3": 2
+          }
+        }
+      ]
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/challenge_elite_spawners"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/room_base"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

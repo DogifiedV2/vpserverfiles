@@ -1,0 +1,77 @@
+{
+  "CHANCE_OF_RAW_VAULT": 0.75,
+  "CHANCE_OF_NETHER_THEME_IN_NETHER": 0.1,
+  "CHANCE_OF_VOID_THEME_IN_END": 0.075,
+  "MODIFIER_LISTS": [
+    {
+      "value": [
+        {
+          "modifierId": "the_vault:energizing",
+          "amount": 1
+        },
+        {
+          "modifierId": "the_vault:soul_boost",
+          "amount": 1
+        },
+        {
+          "modifierId": "the_vault:item_quantity",
+          "amount": 3
+        },
+        {
+          "modifierId": "the_vault:item_rarity",
+          "amount": 3
+        }
+      ],
+      "weight": 75
+    },
+    {
+      "value": [
+        {
+          "modifierId": "the_vault:prosperous",
+          "amount": 1
+        },
+        {
+          "modifierId": "the_vault:haunted",
+          "amount": 3
+        },
+        {
+          "modifierId": "the_vault:coin_pile",
+          "amount": 3
+        },
+        {
+          "modifierId": "the_vault:gilded",
+          "amount": 3
+        },
+        {
+          "modifierId": "the_vault:ornate",
+          "amount": 3
+        },
+        {
+          "modifierId": "the_vault:living",
+          "amount": 3
+        }
+      ],
+      "weight": 20
+    },
+    {
+      "value": [
+        {
+          "modifierId": "the_vault:prosperous",
+          "amount": 25
+        }
+      ],
+      "weight": 5
+    }
+  ],
+  "NETHER_VAULT_THEMES": [
+    "the_vault:classic_vault_nether_crimson",
+    "the_vault:classic_vault_nether_warped",
+    "the_vault:classic_vault_nether_blackstone",
+    "the_vault:classic_vault_nether_soul"
+  ],
+  "VOID_VAULT_THEMES": [
+    "the_vault:classic_vault_void",
+    "the_vault:classic_vault_end_void",
+    "the_vault:classic_vault_factory_void"
+  ]
+}

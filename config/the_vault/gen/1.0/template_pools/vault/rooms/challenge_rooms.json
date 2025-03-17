@@ -1,0 +1,134 @@
+[
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/challenge/crystal_caves"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/wendarr/challenge/crystal_caves"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/idona/challenge/crystal_caves"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/tenos/challenge/crystal_caves"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/velara/challenge/crystal_caves"
+      },
+      {
+        "weight": 3,
+        "reference": "the_vault:vault/rooms/challenge/dragon"
+      },
+      {
+        "weight": 3,
+        "reference": "the_vault:vault/rooms/nonparadox/wendarr/challenge/dragon"
+      },
+      {
+        "weight": 3,
+        "reference": "the_vault:vault/rooms/nonparadox/idona/challenge/dragon"
+      },
+      {
+        "weight": 3,
+        "reference": "the_vault:vault/rooms/nonparadox/tenos/challenge/dragon"
+      },
+      {
+        "weight": 3,
+        "reference": "the_vault:vault/rooms/nonparadox/velara/challenge/dragon"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/challenge/village"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/wendarr/challenge/village"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/idona/challenge/village"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/tenos/challenge/village"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/velara/challenge/village"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/challenge/wildwest"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/wendarr/challenge/wildwest"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/idona/challenge/wildwest"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/tenos/challenge/wildwest"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/velara/challenge/wildwest"
+      },
+      {
+        "weight": 15,
+        "reference": "the_vault:vault/rooms/challenge/factory"
+      },
+      {
+        "weight": 15,
+        "reference": "the_vault:vault/rooms/nonparadox/wendarr/challenge/factory"
+      },
+      {
+        "weight": 15,
+        "reference": "the_vault:vault/rooms/nonparadox/idona/challenge/factory"
+      },
+      {
+        "weight": 15,
+        "reference": "the_vault:vault/rooms/nonparadox/tenos/challenge/factory"
+      },
+      {
+        "weight": 15,
+        "reference": "the_vault:vault/rooms/nonparadox/velara/challenge/factory"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/challenge/x-mark"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/wendarr/challenge/x-mark"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/idona/challenge/x-mark"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/tenos/challenge/x-mark"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/nonparadox/velara/challenge/x-mark"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/challenge/raid/rooms"
+      },
+      {
+        "weight": 10,
+        "reference": "the_vault:vault/rooms/challenge/raid/orcish_rooms"
+      },
+      {
+        "weight": 20,
+        "reference": "the_vault:vault/rooms/challenge/laboratory"
+      }
+]

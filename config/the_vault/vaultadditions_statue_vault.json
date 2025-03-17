@@ -1,0 +1,33 @@
+{
+  "DROPS": [
+    { "value": { "id": "minecraft:arrow", 		"amountMin": 1, "amountMax": 2 }, "weight": 1 },
+    { "value": { "id": "minecraft:blaze_rod", 		"amountMin": 1, "amountMax": 1 }, "weight": 1 },
+    { "value": { "id": "minecraft:bone", 		"amountMin": 1, "amountMax": 3 }, "weight": 1 },
+    { "value": { "id": "minecraft:cod", 		"amountMin": 1, "amountMax": 4 }, "weight": 5 },
+    { "value": { "id": "minecraft:egg", 		"amountMin": 1, "amountMax": 1 }, "weight": 4 },
+    { "value": { "id": "minecraft:ender_pearl", 		"amountMin": 1, "amountMax": 1 }, "weight": 1 },
+    { "value": { "id": "minecraft:feather", 		"amountMin": 1, "amountMax": 2 }, "weight": 3 },
+    { "value": { "id": "minecraft:glow_ink_sac", 	"amountMin": 1, "amountMax": 1 }, "weight": 1 },
+    { "value": { "id": "minecraft:gunpowder", 		"amountMin": 1, "amountMax": 3 }, "weight": 3 },
+    { "value": { "id": "minecraft:ink_sac", 		"amountMin": 1, "amountMax": 2 }, "weight": 3 },
+    { "value": { "id": "minecraft:leather", 		"amountMin": 1, "amountMax": 2 }, "weight": 3 },
+    { "value": { "id": "minecraft:nautilus_shell", 	"amountMin": 1, "amountMax": 1 }, "weight": 1 },
+    { "value": { "id": "minecraft:poisonous_potato", 	"amountMin": 1, "amountMax": 1 }, "weight": 1 },
+    { "value": { "id": "minecraft:raw_beef", 		"amountMin": 1, "amountMax": 2 }, "weight": 4 },
+    { "value": { "id": "minecraft:raw_chicken", 	"amountMin": 1, "amountMax": 2 }, "weight": 4 },
+    { "value": { "id": "minecraft:raw_mutton", 		"amountMin": 1, "amountMax": 2 }, "weight": 3 },
+    { "value": { "id": "minecraft:raw_porkchop", 	"amountMin": 1, "amountMax": 2 }, "weight": 3 },
+    { "value": { "id": "minecraft:raw_rabbit", 		"amountMin": 1, "amountMax": 2 }, "weight": 2 },
+    { "value": { "id": "minecraft:rotten_flesh", 	"amountMin": 1, "amountMax": 8 }, "weight": 5 },
+    { "value": { "id": "minecraft:salmon", 		"amountMin": 1, "amountMax": 4 }, "weight": 4 },
+    { "value": { "id": "minecraft:slime_ball", 		"amountMin": 1, "amountMax": 2 }, "weight": 3 },
+    { "value": { "id": "minecraft:spider_eye", 		"amountMin": 2, "amountMax": 4 }, "weight": 4 },
+    { "value": { "id": "minecraft:string", 		"amountMin": 2, "amountMax": 4 }, "weight": 4 },
+    { "value": { "id": "minecraft:phantom_membrane", 	"amountMin": 1, "amountMax": 1 }, "weight": 2 },
+    { "value": { "id": "minecraft:pufferfish", 		"amountMin": 1, "amountMax": 1 }, "weight": 2 }
+
+  ],
+  "INTERVAL": 500,
+  "MIN_ITEM_GENERATED": 8,
+  "MAX_ITEM_GENERATED": 32
+}

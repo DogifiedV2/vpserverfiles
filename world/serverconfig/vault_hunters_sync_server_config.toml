@@ -1,0 +1,7 @@
+#Supported Values: `json` files
+syncConfigs = ["researches.json", "researches_groups.json", "researches_groups_styles.json", "researches_gui_styles.json", "expertises.json", "skill_descriptions.json", "alchemy_table.json", "expertises_gui_styles.json", "abilities.json", "abilities_gui_styles.json", "talents.json"]
+#Example: io.github.a1qs.vaultadditions.util.MiscUtil
+listOfClassFiles = ["com.examplepackage.util.ExampleClass"]
+#Supported Values: `json` files
+syncCustomConfigs = ["example.json"]
+

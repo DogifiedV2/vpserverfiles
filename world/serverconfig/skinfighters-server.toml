@@ -1,0 +1,13 @@
+#List of player names used for skins
+names = ["HellFirePvP", "BrryHrry", "HBomb94", "CaptainSparklez", "ChosenArchitect", "PeteZahHutt", "BaboAbe", "tangofrags", "KaraCorvus", "X33N", "rhiga", "falsesymmetry", "Stressmonster101", "RagingSkittles", "Seapeekay", "neentarts", "Douwsky", "5uppps", "CaptainPuffy", "truesymmetry", "Tubbo_", "KaptainWutax", "jmilthedude", "CollaboK8", "Just0G", "DogV2", "God"]
+#Chance for fighter to have skin
+#Range: 0 ~ 100
+skinChance = 10
+#Disable stars in name that show fighter tier
+disableStars = false
+#Url of file containing names separated by newline (\n)
+nameUrl = ""
+#Where should skinfighters get skin names from
+#Allowed Values: CONFIG, URL, CONFIG_AND_URL
+nameSource = "CONFIG"
+

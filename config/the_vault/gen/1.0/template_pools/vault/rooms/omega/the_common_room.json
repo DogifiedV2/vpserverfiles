@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/rooms/omega/the_common_room",
+      "palettes": [
+        "the_vault:the_common_room/base"
+      ]
+    }
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/starts/tenos_start",
+      "palettes": [
+        "the_vault:universal_tenos"
+      ]
+    }
+  }
+]

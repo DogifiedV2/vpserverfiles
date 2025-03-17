@@ -1,0 +1,186 @@
+{
+    "tile_processors": [
+      {
+        "type": "reference",
+        "id": "the_vault:generic/vendor_pedestal_placeholder"
+      },
+      {
+        "type": "reference",
+        "id": "the_vault:the_common_room/dungeon_door_placeholder"
+      },
+      {
+        "type": "reference",
+        "id": "the_vault:the_common_room/ore_placeholder"
+      },
+      {
+        "type": "weighted_target",
+        "target": "the_vault:placeholder[type=treasure_door]",
+        "output": {
+            "the_vault:vendor_door": 1,
+            "minecraft:air": 0
+        }
+      },
+      {
+        "type": "weighted_target",
+        "target": "woldsvaults:iskallian_leaves",
+        "output": {
+            "woldsvaults:iskallian_leaves{LootTable:\"the_vault:iskallian_leaves\"}": 1,
+            "minecraft:air": 0
+        }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:vendor_door",
+          "output": [
+            {
+              "Pool": "the_vault:vault/vendor_rooms/vendor_rooms",
+              "Target": "the_vault:vendor_room",
+              "Palettes": [
+                "the_vault:vendor_rooms/vendor_rooms"
+              ],
+              "weight": 1
+            }
+          ]
+        },
+      {
+          "type": "weighted_target",
+          "target": "woldsvaults:dungeon_pedestal",
+          "output": {
+              "woldsvaults:dungeon_pedestal{Generated:0b,LootTable:\"the_vault:dungeon_pedestal_lvl50\"}": 100,
+              "minecraft:air": 0
+          }
+      },
+      {
+        "type": "weighted_target",
+        "target": "woldsvaults:dungeon_pedestal",
+        "output": {
+            "woldsvaults:dungeon_pedestal{Generated:0b,LootTable:\"the_vault:dungeon_pedestal_lvl50\"}": 100,
+            "minecraft:air": 0
+        }
+    },
+    {
+        "type": "weighted_target",
+        "target": "the_vault:placeholder[type=dungeon_discoverable]",
+        "output": {
+          "the_vault:modifier_discovery": 1
+        }
+      },
+      {
+        "type": "weighted_target",
+        "target": "chipped:barrel_1",
+        "output": {
+          "the_vault:enigma_chest{LootTable:\"the_vault:card_barrel\"}": 1,
+          "the_vault:altar_chest{LootTable:\"the_vault:card_barrel\"}": 1,
+          "the_vault:flesh_chest{LootTable:\"the_vault:card_barrel\"}": 1,
+          "the_vault:hardened_chest{LootTable:\"the_vault:card_barrel\"}": 1
+        }
+      },
+      {
+        "type": "weighted_target",
+        "target": "minecraft:yellow_concrete_powder",
+        "output": {
+          "the_vault:treasure_sand{LootTable:\"the_vault:common_digsite\"}": 1
+        }
+      },
+      {
+        "type": "weighted_target",
+        "target": "minecraft:red_concrete_powder",
+        "output": {
+          "woldsvaults:hellish_sand{LootTable:\"the_vault:common_hellish\"}": 1
+        }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=wooden_chest]",
+          "output": {
+              "the_vault:placeholder[type=wooden_chest]": 20,
+              "minecraft:air": 20
+          }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=wooden_chest_guaranteed]",
+          "output": {
+              "the_vault:placeholder[type=wooden_chest]": 1,
+              "minecraft:air": 0
+          }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=gilded_chest]",
+          "output": {
+              "the_vault:placeholder[type=gilded_chest]": 20,
+              "minecraft:air": 20
+      }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=gilded_chest_guaranteed]",
+          "output": {
+              "the_vault:placeholder[type=gilded_chest]": 1,
+              "minecraft:air": 0
+          }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=living_chest]",
+          "output": {
+              "the_vault:placeholder[type=living_chest]": 20,
+              "minecraft:air": 20
+          }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=living_chest_guaranteed]",
+          "output": {
+              "the_vault:placeholder[type=living_chest]": 1,
+              "minecraft:air": 0
+          }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=ornate_chest]",
+          "output": {
+              "the_vault:placeholder[type=ornate_chest]": 20,
+              "minecraft:air": 20
+          }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=ornate_chest_guaranteed]",
+          "output": {
+              "the_vault:placeholder[type=ornate_chest]": 1,
+              "minecraft:air": 0
+          }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=coin_stacks]",
+          "output": {
+              "the_vault:placeholder[type=coin_stacks]": 20,
+              "minecraft:air": 20
+          }
+      },
+      {
+          "type": "weighted_target",
+          "target": "the_vault:placeholder[type=coin_stacks_guaranteed]",
+          "output": {
+              "the_vault:placeholder[type=coin_stacks]": 1,
+              "minecraft:air": 0
+          }
+      },
+          {
+              "type": "weighted_target",
+              "target": "minecraft:glass",
+              "output": {
+                  "minecraft:light[level=15]": 1
+              }
+          },
+      {
+        "type": "reference",
+        "id": "the_vault:generic/room_base"
+      }
+    ],
+    "entity_processors": [],
+    "decorators": []
+  }

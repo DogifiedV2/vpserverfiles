@@ -1,0 +1,47 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/starts/start1",
+      "palettes": [
+        "the_vault:universal_season_winter"
+      ]
+    }
+  },
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/starts/tenos_start",
+      "palettes": [
+        "the_vault:universal_season_winter"
+      ]
+    }
+  },
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/starts/velara_start",
+      "palettes": [
+        "the_vault:universal_season_winter"
+      ]
+    }
+  },
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/starts/idona_start",
+      "palettes": [
+        "the_vault:universal_season_winter"
+      ]
+    }
+  },
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/starts/wendarr_start",
+      "palettes": [
+        "the_vault:universal_season_winter"
+      ]
+    }
+  }
+]
