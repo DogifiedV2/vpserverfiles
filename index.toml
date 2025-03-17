@@ -501,10 +501,6 @@ file = "config/the_vault/gen.zip"
 hash = "fca06b9f0f85180312a9c77053dc6692ad1704c5723e30b276370dd6dfbf4f23"
 
 [[files]]
-file = "config/the_vault/gen/1.0/archive-2025-03-02T033932+0100.tar.gz"
-hash = "3e8830f112f11acc74ab8cc3a8fe4b6c97fd09b9397be6cb7bdf7d957ddb21d7"
-
-[[files]]
 file = "config/the_vault/gen/1.0/loot_pools/idona_altar.json"
 hash = "0500871dcfd18725684aafcb62d602658bc0444a175a9250a5ea685c1f57ab7b"
 
@@ -11094,7 +11090,7 @@ hash = "e1d427a9d0088cb4827530dd4959ebbf41236440eaef59ee70db1ec92e684f24"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms.json"
-hash = "6cc1cead835046bb1ee4d3532b4e31ea849ec347d334c54ed9ac4c36a61760d5"
+hash = "a3c52ea3f21dd75ce7bd57b070e78035aa48c1e95a8d98d0d86435e92656168a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms_blood.json"

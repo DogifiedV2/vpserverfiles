@@ -16,7 +16,7 @@
     "reference": "the_vault:vault/rooms/omega/vendor"
   },
   {
-    "weight": 10,
+    "weight": 15,
     "reference": "the_vault:vault/rooms/omega/the_common_room"
   },
   {
