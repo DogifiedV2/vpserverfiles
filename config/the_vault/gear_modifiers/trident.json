@@ -551,7 +551,8 @@
         "group": "ModWindUp",
         "identifier": "the_vault:mod_trident_windup",
         "tags": [
-          "focusWindUp"
+          "focusWindUp",
+          "noLegendary"
         ],
         "tiers": [
           {
@@ -2444,7 +2445,9 @@
         "attribute": "the_vault:trident_wind_up_percent",
         "group": "ModWindUp",
         "identifier": "the_vault:crafted_wind_up_percent",
-        "tags": [],
+        "tags": [
+          "noLegendary"
+        ],
         "tiers": [
           {
             "minLevel": 0,

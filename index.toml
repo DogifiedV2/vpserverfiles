@@ -410,11 +410,11 @@ hash = "4d38fcd9e20263aa62d370ff37d2e5ae9a666d9a3544c84f0ed9783a023603f5"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "a4803fac0e45c1cdf0d3b80ec91b783d22d3a622b63e41d2ab3fbe395b6a2a76"
+hash = "17b5015d35d7460ff34bcce92249c9c79103763441ff570c97c57ca3008d8b3a"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "fa2bd2243bf036a987df3bad0940af64a2221d601cd0ed6cbe4a00336b4ec43d"
+hash = "e0110112487a1536c17a2fb875facab3f63d385770afd91aa5b684c8438bd91c"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -14306,7 +14306,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.15.9-all.jar"
-hash = "28169b0b14a0808db8de7e11b1ae40cd9e16d243900519e8e32c5b9bf0802ea9"
+hash = "695dd47e93e487c581d548c212a9e954112719aaaf07b12604b83f54ab277c1f"
 
 [[files]]
 file = "mods/worldborderfixer-2024.5.4.jar"
