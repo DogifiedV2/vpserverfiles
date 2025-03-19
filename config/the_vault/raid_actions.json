@@ -50,26 +50,6 @@
       "color1": "0xFFffc600",
       "color2": "0xFFa8150a"
     },
-    "eccentric_focus": {
-      "type": "floating_item_reward",
-      "textColor": "0xFFffb400",
-      "item": {
-        "id": "woldsvaults:eccentric_focus",
-        "count": 1
-      },
-      "color1": "0xFFffc600",
-      "color2": "0xFFa8150a"
-    },
-    "eccentric_focus_big": {
-      "type": "floating_item_reward",
-      "textColor": "0xFFffb400",
-      "item": {
-        "id": "woldsvaults:eccentric_focus",
-        "count": 2
-      },
-      "color1": "0xFFffc600",
-      "color2": "0xFFa8150a"
-    },
     "cryonic_focus": {
       "type": "floating_item_reward",
       "textColor": "0xFFffb400",

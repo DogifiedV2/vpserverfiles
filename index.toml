@@ -12818,7 +12818,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/raid_actions.json"
-hash = "dcdfe708a30cc386a1a306393bc58ab831afde5d8cdaa072d1b875c8c10f9901"
+hash = "15e9e3870eeae1930cc3a1249bef7fd9ca240335aa6a0307feb8f3d127a9dbc3"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
@@ -13523,6 +13523,10 @@ hash = "7ef79e58099e08dd92df3798956d41b52d922993a0ac23a8f77945c345ad516c"
 [[files]]
 file = "mods/Prism-1.18.2-1.0.1.jar"
 hash = "b7d52586d5c8a8a86d6845711c916f4b3591d62aa19334dbf960c1352b68494b"
+
+[[files]]
+file = "mods/Prometheus-Exporter-1.18.2-forge-1.2.0.jar"
+hash = "a2f49e24dc7261a4b300ef58d0b21d07effffe60a89ee7a851722116eceb1d87"
 
 [[files]]
 file = "mods/PuzzlesLib-v3.3.5-1.18.2-Forge.jar"
@@ -14471,6 +14475,10 @@ hash = "28202a0ba8a1f82638bb6f3c1bafbd4676ba4686792e9ce5892912c1defb09bd"
 [[files]]
 file = "world/serverconfig/pipez-server.toml"
 hash = "b393f771fde81ed6ba382484ee1260813a6e8bed996c2d230eb8359e59f7a076"
+
+[[files]]
+file = "world/serverconfig/prometheus_exporter-server.toml"
+hash = "0756f9b7f37bdd5e64c4b4778d59762a45ffa2e197d9a6afec4a7ff2b22ebb74"
 
 [[files]]
 file = "world/serverconfig/refinedstorage-server.toml"
