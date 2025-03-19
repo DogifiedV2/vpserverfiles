@@ -414,7 +414,7 @@ hash = "17b5015d35d7460ff34bcce92249c9c79103763441ff570c97c57ca3008d8b3a"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "e0110112487a1536c17a2fb875facab3f63d385770afd91aa5b684c8438bd91c"
+hash = "4e06c05af71207a7b7f40a8543f033a115e5e66f27873a9ea17b8d5b09ecb396"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
@@ -13006,7 +13006,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "3b701135fd297d00cab0b1d8b4554b594dbf5abd27c09462b10fa7b3069be7cb"
+hash = "5ddddbb6a4ede61c478cb4ba36ebce76daa9f0b0f200bad482c96f28ddf647fa"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
