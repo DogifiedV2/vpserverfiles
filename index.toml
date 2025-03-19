@@ -12882,7 +12882,7 @@ hash = "225bae42f4318642842cbbfd405f36adf572b260c66ed850065282e4052c9bb4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "4f488f7c244117e092fd4e38231805805fe7edef66905391a2dc6af70dd8cfb3"
+hash = "e960acadee203da9db8c83c35b20a9fba0935d2563c1382c78a24f145310375f"
 
 [[files]]
 file = "config/the_vault/skill_altar.json"
@@ -13006,7 +13006,7 @@ hash = "5883bc6f18aabf12ff26792b8dc227ae3202f624ab5958d263d99ec06130b8f0"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "2cf93c72b14a54203f533e53ef839e22a788454d7338b99d1e88ff95f1c17158"
+hash = "3b701135fd297d00cab0b1d8b4554b594dbf5abd27c09462b10fa7b3069be7cb"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
@@ -13710,7 +13710,7 @@ hash = "a3d9bbf539470d098259012d2e3bffac6118e3eed709ab75e4cf6b47e4ee7bf5"
 
 [[files]]
 file = "mods/black_market_tweaks-1.1.1.jar"
-hash = "0550483cb197489337d9569bbc115df38d0ad09164628891fe6e48c3fef7dd7f"
+hash = "e1b78c36299e96f97c96c28a26a33ede71229408474e76439d951bbee821758b"
 
 [[files]]
 file = "mods/blockcarpentry-1.18-0.3.0.jar"
@@ -14285,8 +14285,8 @@ file = "mods/vaultkeychain-2.1.0.jar"
 hash = "32cefa52b463288c99b0ee8625b3dcad614d373f5d170f17a59f4c19003e5847"
 
 [[files]]
-file = "mods/vaultoptimise-1.4.4.jar"
-hash = "4c40df57fa5db528f6d6981d5bd210da6eaacff751e4d7f2c552e9f9a8fc9a4f"
+file = "mods/vaultoptimise-1.4.5.jar"
+hash = "7edcd331293019deb83f92fa54c2f2eba4d343fdbc1ff4170b8a66f9f7cbee00"
 
 [[files]]
 file = "mods/vhapi-3.3.3.jar"

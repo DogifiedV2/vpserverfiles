@@ -6,18 +6,6 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:battlestaff",
-              "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:bamboo_fightstick\",\"the_vault:gear_roll_type\":\"Unique\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
-            "MAX_COST": 40
-          },
-          "weight": 5
-        },
-        {
-          "value": {
-            "OFFER": {
               "item": "sophisticatedbackpacks:iron_backpack"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -186,18 +174,6 @@
     {
       "MIN_LEVEL": 30,
       "TRADE_POOL": [
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:battlestaff",
-              "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:bamboo_fightstick\",\"the_vault:gear_roll_type\":\"Unique\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
-            "MAX_COST": 40
-          },
-          "weight": 5
-        },
         {
           "value": {
             "OFFER": {
@@ -776,18 +752,6 @@
             "MAX_COST": 60
           },
           "weight": 16
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:battlestaff",
-              "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:bamboo_fightstick\",\"the_vault:gear_roll_type\":\"Unique\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 24,
-            "MAX_COST": 40
-          },
-          "weight": 5
         },
         {
           "value": {
@@ -1664,18 +1628,6 @@
             "MAX_COST": 70
           },
           "weight": 5
-        },
-        {
-          "value": {
-            "OFFER": {
-              "item": "the_vault:battlestaff",
-              "nbt": "{\"the_vault:gear_unique_pool\":\"woldsvaults:bamboo_fightstick\",\"the_vault:gear_roll_type\":\"Unique\"}"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 48,
-            "MAX_COST": 70
-          },
-          "weight": 500
         },
         {
           "value": {

@@ -602,6 +602,7 @@
         ],
         "PREFIX": [
           "the_vault:mod_attack_damage",
+          "the_vault:mod_ability_increase",
           "the_vault:mod_everflame_fireball"
         ],
         "SUFFIX": [
@@ -753,10 +754,11 @@
           "the_vault:base_attack_speed"
         ],
         "PREFIX": [
-          "the_vault:mod_execution_young_kitsune"
+          "the_vault:mod_attack_damage_mineral_greatsword"
         ],
         "SUFFIX": [
-          "the_vault:mod_attack_speed_percent"
+          "the_vault:mod_attack_speed_percent",
+          "the_vault:mod_attack_range"
         ]
       },
       "modifierTags": [],
