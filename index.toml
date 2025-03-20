@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/logprot-common.toml"
+hash = "478549ee20b1a2a5e95845a483914903ea66cccb4b3abb67e48d9896975687f7"
+
+[[files]]
 file = "config/the_vault/abilities.json"
-hash = "52d56a112bee2c1d1e1359ec7ec9cbc377a518fc71820ef14834b1301f721e43"
+hash = "f050e1b77c59274af0f3e61b52c23c56adb9298783c788f14f56c0a35f0d60d4"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -12818,7 +12822,7 @@ hash = "8fe2b15fa3ec3c71a9467a4587c3a6eb658d2b680e49f197605a2a18ac0ae1e8"
 
 [[files]]
 file = "config/the_vault/raid_actions.json"
-hash = "15e9e3870eeae1930cc3a1249bef7fd9ca240335aa6a0307feb8f3d127a9dbc3"
+hash = "d68ddd682343cc70d3a403d0647b872f188455eed7a9780dd82068f7893ad958"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
@@ -13710,7 +13714,7 @@ hash = "a3d9bbf539470d098259012d2e3bffac6118e3eed709ab75e4cf6b47e4ee7bf5"
 
 [[files]]
 file = "mods/black_market_tweaks-1.1.1.jar"
-hash = "e1b78c36299e96f97c96c28a26a33ede71229408474e76439d951bbee821758b"
+hash = "327b9da5a38f22bb59db390e210c800264f80313d8fd071be643be339f3116d0"
 
 [[files]]
 file = "mods/blockcarpentry-1.18-0.3.0.jar"
@@ -13963,6 +13967,10 @@ hash = "7e8ddecda4de01eab55d97dbaa749ff002638c859e1f2196de0eeb0961492fa4"
 [[files]]
 file = "mods/limitedchunks-1.18.2-2.3.jar"
 hash = "7fc9840f85f63cdbdb507a000d362dd17885032c92cc01a3964d43b7fcbcd74e"
+
+[[files]]
+file = "mods/logprot-1.18.2-1.7.jar"
+hash = "a31bbeede5c2cae3dbdc21db84c29856642a56c7acc7925819df39c108091a48"
 
 [[files]]
 file = "mods/lootbeams-1.18.1-release-july1722.jar"
@@ -14250,7 +14258,7 @@ hash = "50ffd627d5f0fb72754c518888712cccd158de89e6a0eb19bb1ab79f7b306e72"
 
 [[files]]
 file = "mods/vaultadditions-1.14.0.jar"
-hash = "62cec8c2e5e696707cb4d673d24ae40c5741ba5be943ff28f89f112d6c1c21fa"
+hash = "0c6e95505083dc3ed27a9027d7397da5f2a01ff9b796fbcc83c0b6dcb0418c3f"
 
 [[files]]
 file = "mods/vaultcoinpouch-1.6.2.jar"
