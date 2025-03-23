@@ -1331,14 +1331,6 @@
         "weight": 15
       },
       {
-        "value": "eccentric_focus",
-        "weight": 80
-      },
-      {
-        "value": "eccentric_focus_big",
-        "weight": 30
-      },
-      {
         "value": "cryonic_focus_big",
         "weight": 40
       },
@@ -1365,10 +1357,6 @@
       {
         "value": "kaleidoscope",
         "weight": 8
-      },
-      {
-        "value": "wicked_witch",
-        "weight": 6
       },
       {
         "value": "baguette",

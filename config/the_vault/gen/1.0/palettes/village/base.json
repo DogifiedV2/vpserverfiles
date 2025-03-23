@@ -59,6 +59,10 @@
     },
     {
       "type": "reference",
+      "id": "the_vault:village/spawner_settings"
+    },
+    {
+      "type": "reference",
       "id": "the_vault:generic/room_base"
     },
     {
@@ -68,13 +72,6 @@
     {
         "type": "template_stack_tile",
         "target": "@the_vault:vault_lootables",
-        "stack": [
-            "STRUCTURE_ROOM_VILLAGE"
-        ]
-    },
-    {
-        "type": "template_stack_spawner",
-        "target": "ispawner:spawner",
         "stack": [
             "STRUCTURE_ROOM_VILLAGE"
         ]

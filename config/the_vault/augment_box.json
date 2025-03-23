@@ -66,24 +66,6 @@
     {
       "value": {
         "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_nether_crimson\"}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 1
-    },
-    {
-      "value": {
-        "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_nether_warped\"}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 1
-    },
-    {
-      "value": {
-        "id": "the_vault:augment",
         "nbt": "{theme:\"the_vault:classic_vault_desert\"}",
         "amountMin": 1,
         "amountMax": 1
@@ -129,24 +111,6 @@
     {
       "value": {
         "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_void\"}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 1
-    },
-    {
-      "value": {
-        "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_factory_void\"}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 1
-    },
-    {
-      "value": {
-        "id": "the_vault:augment",
         "nbt": "{theme:\"the_vault:classic_vault_cave_deepslate\"}",
         "amountMin": 1,
         "amountMax": 1
@@ -166,33 +130,6 @@
       "value": {
         "id": "the_vault:augment",
         "nbt": "{theme:\"the_vault:classic_vault_cave_wasteland\"}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 1
-    },
-    {
-      "value": {
-        "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_end_void\"}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 1
-    },
-    {
-      "value": {
-        "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_nether_blackstone\"}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 1
-    },
-    {
-      "value": {
-        "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_nether_soul\"}",
         "amountMin": 1,
         "amountMax": 1
       },

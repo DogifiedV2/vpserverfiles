@@ -277,112 +277,221 @@
           }
         ]
       },
+      { "attribute": "the_vault:on_hit_chain",
+      "group": "BaseBonusPool",
+      "identifier": "the_vault:mod_on_hit_chain",
+      "tags": [
+        "focusChaining"
+      ],
+      "tiers": [
+        {
+          "minLevel": 0,
+          "maxLevel": 33,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 12,
+          "maxLevel": 46,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 20,
+          "maxLevel": 61,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 34,
+          "maxLevel": 79,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 47,
+          "maxLevel": -1,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 62,
+          "maxLevel": -1,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 71,
+          "maxLevel": -1,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 80,
+          "maxLevel": -1,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 86,
+          "maxLevel": -1,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        },
+        {
+          "minLevel": 96,
+          "maxLevel": -1,
+          "weight": 100,
+          "value": {
+            "min": 1,
+            "max": 2,
+            "step": 1
+          }
+        }
+      ]
+    },
       { "attribute": "the_vault:ability_power",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_ap",
 
-        "tiers": [
-          {
-            "minLevel": 0,
-            "maxLevel": 33,
-            "weight": 100,
-            "value": {
-              "min": 2.0,
-              "max": 6.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 12,
-            "maxLevel": 46,
-            "weight": 100,
-            "value": {
-              "min": 7.0,
-              "max": 12.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 20,
-            "maxLevel": 61,
-            "weight": 100,
-            "value": {
-              "min": 13.0,
-              "max": 16.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 34,
-            "maxLevel": 79,
-            "weight": 100,
-            "value": {
-              "min": 17.0,
-              "max": 20.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 47,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 21.0,
-              "max": 24.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 62,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 25.0,
-              "max": 28.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 71,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 29.0,
-              "max": 33.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 34.0,
-              "max": 38.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 86,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 39.0,
-              "max": 44.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 96,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 45.0,
-              "max": 50.0,
-              "step": 0.5
-            }
-          }
-        ]
+"tiers": [
+         {
+           "minLevel": 0,
+           "maxLevel": 33,
+           "weight": 100,
+           "value": {
+             "min": 2.0,
+             "max": 5.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 12,
+           "maxLevel": 46,
+           "weight": 100,
+           "value": {
+             "min": 6.0,
+             "max": 10.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 20,
+           "maxLevel": 61,
+           "weight": 100,
+           "value": {
+             "min": 10.0,
+             "max": 13.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 34,
+           "maxLevel": 79,
+           "weight": 100,
+           "value": {
+             "min": 14.0,
+             "max": 16.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 47,
+           "maxLevel": -1,
+           "weight": 100,
+           "value": {
+             "min": 17.0,
+             "max": 19.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 62,
+           "maxLevel": -1,
+           "weight": 100,
+           "value": {
+             "min": 20.0,
+             "max": 22.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 71,
+           "maxLevel": -1,
+           "weight": 100,
+           "value": {
+             "min": 23.0,
+             "max": 26.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 80,
+           "maxLevel": -1,
+           "weight": 100,
+           "value": {
+             "min": 27.0,
+             "max": 30.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 86,
+           "maxLevel": -1,
+           "weight": 100,
+           "value": {
+             "min": 31.0,
+             "max": 35.0,
+             "step": 0.5
+           }
+         },
+         {
+           "minLevel": 96,
+           "maxLevel": -1,
+           "weight": 100,
+           "value": {
+             "min": 36.0,
+             "max": 40.0,
+             "step": 0.5
+           }
+         }
+       ]
       },
       { "attribute": "the_vault:mana_additive",
       "group": "BaseBonusPool",

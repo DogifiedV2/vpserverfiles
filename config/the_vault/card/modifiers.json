@@ -2415,7 +2415,7 @@
     "dash": {
       "type": "gear",
       "name": {
-        "text": "Warp Card"
+        "text": "Dash Card"
       },
       "model": "the_vault:card/icon/dash#inventory",
       "groups": [
@@ -2426,7 +2426,7 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Dash_Warp",
+          "abilityKey": "Dash_Base",
           "levelChange": 1
         }
       ],
@@ -2455,7 +2455,7 @@
     "dash_warp": {
       "type": "gear",
       "name": {
-        "text": "Dash Card"
+        "text": "Warp Card"
       },
       "model": "the_vault:card/icon/dash_warp#inventory",
       "groups": [
@@ -2466,7 +2466,87 @@
       "pool": [
         {
           "tier": 1,
-          "abilityKey": "Dash_Base",
+          "abilityKey": "Dash_Warp",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "chain_miner": {
+      "type": "gear",
+      "name": {
+        "text": "Chain Miner Card"
+      },
+      "model": "the_vault:card/icon/vein_miner_chain#inventory",
+      "groups": [
+        "Arcane",
+        "Utility"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Vein_Miner_Chain",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "mega_jump_levitate": {
+      "type": "gear",
+      "name": {
+        "text": "Levitate Card"
+      },
+      "model": "the_vault:card/icon/levitate#inventory",
+      "groups": [
+        "Arcane",
+        "Utility"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Levitate",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "colossus": {
+      "type": "gear",
+      "name": {
+        "text": "Colossus Card"
+      },
+      "model": "the_vault:card/icon/colossus#inventory",
+      "groups": [
+        "Arcane",
+        "Utility"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Colossus",
+          "levelChange": 1
+        }
+      ],
+      "maxTier": 1
+    },
+    "sneaky_getaway": {
+      "type": "gear",
+      "name": {
+        "text": "Sneaky Getaway Card"
+      },
+      "model": "the_vault:card/icon/sneaky_getaway#inventory",
+      "groups": [
+        "Arcane",
+        "Utility"
+      ],
+      "attribute": "the_vault:added_ability_level",
+      "pool": [
+        {
+          "tier": 1,
+          "abilityKey": "Sneaky_Getaway",
           "levelChange": 1
         }
       ],
@@ -5733,6 +5813,22 @@
       },
       {
         "value": "dash_warp",
+        "weight": 1.0
+      },
+      {
+        "value": "chain_miner",
+        "weight": 1.0
+      },
+      {
+        "value": "mega_jump_levitate",
+        "weight": 1.0
+      },
+      {
+        "value": "colossus",
+        "weight": 1.0
+      },
+      {
+        "value": "sneaky_getaway",
         "weight": 1.0
       },
       {
