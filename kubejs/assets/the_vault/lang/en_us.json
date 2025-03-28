@@ -1,0 +1,18 @@
+{
+	"language.code": "en_us",
+
+	"curios.identifier.green_trinket": "Green Trinket",
+	"curios.identifier.belt": "Magnet",
+	"curios.identifier.tiab": "Time In A Bottle",
+
+	"item.the_vault.gem_iskallium": "Vaultium Gem",
+	"item.the_vault.cluster_iskallium": "Vaultium Cluster",
+	"item.the_vault.chunk_iskallium": "Vaultium Chunk",
+	"item.the_vault.key_iskallium": "Vaultium Key",
+	"block.the_vault.treasure_door_iskallium": "Vaultium Treasure Door",
+	"block.the_vault.ore_iskallium": "Vaultium Ore",
+	"block.the_vault.ore_iskallium_stone": "Vaultium Ore - Stone",
+	"block.the_vault.ore_iskallium_white": "Vault Calcite",
+	"block.the_vault.ore_iskallium_vault_stone": "Vaultium Ore - Vault Stone"
+
+}

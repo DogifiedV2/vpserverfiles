@@ -2921,7 +2921,7 @@
         "properties": {
           "entries": [
             {
-              "filter": "the_vault:god_altar",
+              "filter": "the_vault:pylon",
               "radius": 64.0,
               "color": 5817009
             }

@@ -75,7 +75,8 @@
                         {
                           "elements": {
                             "minecraft:vindicator{Tags:[\"vault_champion\"]}": 1,
-                            "the_vault:vault_spider{Tags:[\"vault_champion\"]}": 1
+                            "the_vault:vault_spider{Tags:[\"vault_champion\"]}": 1,
+                            "iceandfire:fire_dragon{TamedDragon:1b,Hunger:100,Gender:0b,Variant:0,Age:0,AgeTicks:21742311,AgingDisabled:1b,Sitting:0b,Sleeping:0b,ModelDead:0b,CanUpdate:1b,Tags:[\"vault_champion\"]}": 1
                           },
                           "weight": 1
                         }

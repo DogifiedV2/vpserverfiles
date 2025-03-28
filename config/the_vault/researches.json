@@ -2,6 +2,93 @@
   "MOD_RESEARCHES": [
     {
       "modIds": [
+        "hostilenetworks"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Hostile Neural Networks",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "botanicalmachinery",
+        "botanicalextramachinery"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Botanical Machinery",
+      "cost": 6,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "advancedperipherals",
+        "peripherals"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Advanced Peripherals",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "computercraft"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Computer Craft",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "laserio"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "LaserIO",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "colossalchests"
       ],
       "restrictions": {

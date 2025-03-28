@@ -6,6 +6,16 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/empty.json"
     },
     {
+      "id": "the_vault:vault/rooms/chaos/challenge/pirate_cave",
+      "name": "Chaos Pirate Cave",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/pirate_cave.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/challenge/pirate_cave",
+      "name": "Pirate Cave",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/pirate_cave.json"
+    },
+    {
       "id": "the_vault:vault/starts/wendarr_starts_normal",
       "name": "Wendarr Starts",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/wendarr_starts_normal.json"

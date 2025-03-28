@@ -2,6 +2,38 @@
   "modifierGroup": {
     "BASE_ATTRIBUTES": [
       {
+        "attribute": "the_vault:endergized",
+        "group": "BaseEndergized",
+        "identifier": "the_vault:base_endergized",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:chestbreaching",
+        "group": "BaseBreaching",
+        "identifier": "the_vault:base_breaching",
+        "tags": [],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
+      },
+      {
         "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_magnet_durability",
@@ -235,6 +267,53 @@
             "value": {
               "min": 20.1,
               "max": 25.0,
+              "step": 0.1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:range",
+        "group": "BaseRange",
+        "identifier": "the_vault:u_ender_magnet_range",
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 37,
+            "weight": 100,
+            "value": {
+              "min": 7.1,
+              "max": 9.0,
+              "step": 0.1
+            }
+          },
+          {
+            "minLevel": 38,
+            "maxLevel": 64,
+            "weight": 100,
+            "value": {
+              "min": 9.1,
+              "max": 12.0,
+              "step": 0.1
+            }
+          },
+          {
+            "minLevel": 51,
+            "maxLevel": 75,
+            "weight": 100,
+            "value": {
+              "min": 13.1,
+              "max": 15.0,
+              "step": 0.1
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "min": 15.1,
+              "max": 18.0,
               "step": 0.1
             }
           }
@@ -1327,128 +1406,87 @@
           }
         ]
       },
-      {
-        "attribute": "the_vault:attack_damage",
+      { "attribute": "the_vault:attack_damage",
         "group": "BaseAttackDamage",
         "identifier": "the_vault:base_attack_damage",
         "tiers": [
           {
             "minLevel": 0,
-            "maxLevel": 15,
+            "maxLevel": 47,
             "weight": 10,
             "value": {
-              "min": 8.0,
-              "max": 10.0,
+              "min": 2.0,
+              "max": 6.0,
               "step": 0.5
             }
           },
           {
-            "minLevel": 10,
-            "maxLevel": 47,
+            "minLevel": 22,
+            "maxLevel": 50,
             "weight": 10,
             "value": {
-              "min": 11.0,
+              "min": 7.0,
               "max": 12.0,
               "step": 0.5
             }
           },
           {
-            "minLevel": 16,
-            "maxLevel": 57,
+            "minLevel": 35,
+            "maxLevel": 86,
             "weight": 10,
             "value": {
               "min": 13.0,
-              "max": 14.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 25,
-            "maxLevel": 63,
-            "weight": 10,
-            "value": {
-              "min": 16.0,
               "max": 18.0,
               "step": 0.5
             }
           },
           {
-            "minLevel": 36,
-            "maxLevel": 71,
+            "minLevel": 48,
+            "maxLevel": -1,
             "weight": 10,
             "value": {
               "min": 19.0,
-              "max": 21.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 48,
-            "maxLevel": 82,
-            "weight": 10,
-            "value": {
-              "min": 22.0,
-              "max": 24.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 58,
-            "maxLevel": 89,
-            "weight": 10,
-            "value": {
-              "min": 25.0,
               "max": 27.0,
               "step": 0.5
             }
           },
           {
-            "minLevel": 64,
+            "minLevel": 59,
             "maxLevel": -1,
             "weight": 10,
             "value": {
               "min": 28.0,
-              "max": 30.0,
+              "max": 35.0,
               "step": 0.5
             }
           },
           {
-            "minLevel": 72,
+            "minLevel": 70,
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 31.0,
-              "max": 33.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 83,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 34.0,
-              "max": 36.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 90,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 37.0,
-              "max": 39.0,
-              "step": 0.5
-            }
-          },
-          {
-            "minLevel": 95,
-            "maxLevel": -1,
-            "weight": 10,
-            "value": {
-              "min": 40.0,
+              "min": 36.0,
               "max": 42.0,
+              "step": 0.5
+            }
+          },
+          {
+            "minLevel": 80,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 43.0,
+              "max": 48.0,
+              "step": 0.5
+            }
+          },
+          {
+            "minLevel": 87,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 49.0,
+              "max": 55.0,
               "step": 0.5
             }
           },
@@ -1457,8 +1495,18 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 43.0,
-              "max": 50.0,
+              "min": 56.0,
+              "max": 72.0,
+              "step": 0.5
+            }
+          },
+          {
+            "minLevel": 101,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 72.0,
+              "max": 84.0,
               "step": 0.5
             }
           }
@@ -3972,6 +4020,96 @@
             }
           }
         ]
+      },
+      {
+        "attribute": "the_vault:execution_damage",
+        "group": "ModOnHitType",
+        "identifier": "the_vault:mod_execution_young_kitsune",
+        "tags": [
+          "focusResistance"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.1,
+              "max": 0.2,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.21,
+              "max": 0.25,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:hexing_chance",
+        "group": "ModOnHitType",
+        "identifier": "the_vault:mod_hexing_chance",
+        "tags": [
+          "focusHexing"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 30,
+            "weight": 600,
+            "value": {
+              "min": 0.05,
+              "max": 0.1,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 31,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.11,
+              "max": 0.16,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 45,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.17,
+              "max": 0.23,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.24,
+              "max": 0.3,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 90,
+            "maxLevel": -1,
+            "weight": 600,
+            "value": {
+              "min": 0.31,
+              "max": 0.35,
+              "step": 0.01
+            }
+          }
+        ]
       }
     ],
     "SUFFIX": [
@@ -3990,6 +4128,33 @@
             "value": {
               "min": 0.03,
               "max": 0.03,
+              "step": 0.01
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:thorns_scaling_damage",
+        "group": "BaseScaling",
+        "identifier": "the_vault:thorns_scaling_damage_grass_sword",
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.15,
+              "max": 0.3,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 40,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.31,
+              "max": 0.5,
               "step": 0.01
             }
           }

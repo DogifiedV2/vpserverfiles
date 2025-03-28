@@ -158,6 +158,21 @@
       "modifierTags": [],
       "weight": 1
     },
+    "woldsvaults:breaching_jewel": {
+      "name": "Breaching Jewel",
+      "model": "the_vault:gear/jewel/kaleidoscope",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:u_jewel_size"
+        ],
+        "PREFIX": [
+          "the_vault:base_breaching"
+        ],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
     "the_vault:kaleidoscope": {
       "name": "Kaleidoscope",
       "model": "the_vault:gear/jewel/kaleidoscope",
@@ -467,11 +482,10 @@
       "model": "the_vault:magnets/ender_magnet",
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_endergized",
           "the_vault:base_magnet_durability"
         ],
         "IMPLICIT": [
-          "the_vault:u_base_magnet_range",
+          "the_vault:u_ender_magnet_range",
           "the_vault:u_base_magnet_velocity"
         ],
         "PREFIX": [],
@@ -754,11 +768,10 @@
           "the_vault:base_attack_speed"
         ],
         "PREFIX": [
-          "the_vault:mod_attack_damage_mineral_greatsword"
+          "the_vault:mod_execution_young_kitsune"
         ],
         "SUFFIX": [
-          "the_vault:mod_attack_speed_percent_kitsune",
-          "the_vault:mod_attack_range"
+          "the_vault:mod_attack_speed_percent"
         ]
       },
       "modifierTags": [],
@@ -880,6 +893,9 @@
     },
     "woldsvaults:treasure_jewel": {
       "woldsvaults:treasure_jewel": 1
+    },
+    "woldsvaults:breaching_jewel": {
+      "woldsvaults:breaching_jewel": 1
     },
     "the_vault:pax": {
       "the_vault:pax": 1

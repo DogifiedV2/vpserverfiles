@@ -1,5 +1,71 @@
 {
   "descriptions": {
+    "Botanical Machinery": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Botanial Machinery ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon for Botania\n\nFor the lazy botanist, this mod adds one-block automation solutions for things like the Runic Altar, Agglomeration Plate, Alfheim Portal, etc. "
+      }
+    ],
+    "Hostile Neural Networks": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Hostile Neural Networks",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nHostile Neural Networks is a server-friendly mob looting system. Use a Data Model on a mob to make it's Model, then evolve your Data Model using Spawn Eggs of the corresponding type. Very powerful mod!"
+      },
+      {
+        "text": "\n\nNote, HNN works differently in this pack! Your models won't upgrade in Simulation Chambers or gain data from kills, you need to evolve them using spawn eggs! Also needs power to work."
+      }
+    ],
+    "Advanced Peripherals": [
+      {
+        "text": "Unlocks the"
+      },
+      {
+        "text": " Advanced Peripherals ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon for ComputerCraft\n\nThis mod adds lots of new blocks that integrate with ComputerCraft such as the Chat Box and Environmental Scanner, among many more! Take your computing to the next level."
+      }
+    ],
+    "Computer Craft": [
+      {
+        "text": "Unlocks the"
+      },
+      {
+        "text": " ComputerCraft ",
+        "color": "yellow"
+      },
+      {
+        "text": "mod, aswell as CC Vaulting!\n\nThis mod provides you with the amazing power of computing! Conquer the world and improve your automation with this Lua-based machine!... or just have some fun messing around!"
+      }
+    ],
+    "LaserIO": [
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "LaserIO ",
+        "color": "yellow"
+      },
+      {
+        "text": "mod!\n\nLaserIO is a useful mod that seeks to replicate the mechanics of EnderIO - allowing you to interact with items, fluids, energy, and redstone - all from the same block face! There is limitless potential for logistics around transportation of resources."
+      }
+    ],
     "Cagerium": [
       {
         "text": "Unlocks the "

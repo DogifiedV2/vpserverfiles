@@ -67,7 +67,7 @@
       "x": 180,
       "y": 95,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/processing"
     },
     "Looting": {
@@ -87,7 +87,7 @@
       "x": 560,
       "y": -25,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/addons"
     },
     "Alchemy": {

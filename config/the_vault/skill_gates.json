@@ -195,7 +195,13 @@
           { "type": "constant", "id": "Mixtures" },
           { "type": "constant", "id": "Vault Rings" },
           { "type": "constant", "id": "Digital Waystones" },
-          { "type": "constant", "id": "Brews" }
+          { "type": "constant", "id": "Brews" },
+          { "type": "constant", "id": "Computer Craft" },
+          { "type": "constant", "id": "LaserIO" },
+          { "type": "constant", "id": "Advanced Peripherals" },
+          { "type": "constant", "id": "Hostile Neural Networks" },
+          { "type": "constant", "id": "Botanical Machinery" }
+          
         ],
         "ignoreArrow": true,
         "lockedBy": []

@@ -58,6 +58,14 @@
 	icon = "curios:item/empty_cosmetic_slot"
 
 [[curiosSettings]]
+	identifier = "tiab"
+	priority = 9
+	size = 1
+	visible = true
+	cosmetic = false
+	icon = "curios:item/empty_cosmetic_slot"
+
+[[curiosSettings]]
 	identifier = "charm"
 	priority = 9
 	size = 1

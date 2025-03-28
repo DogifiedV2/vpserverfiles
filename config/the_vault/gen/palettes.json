@@ -1,6 +1,21 @@
 {
   "keys": [ 
     {
+      "id": "the_vault:pirate_caves/spawner_settings",
+      "name": "Pirate Caves Spawner Settings",
+      "1.0": "config/the_vault/gen/1.0/palettes/pirate_caves/spawner_settings.json"
+    },
+    {
+      "id": "the_vault:chaos/pirate_cave/base",
+      "name": "Chaos Pirate Cave Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/pirate_cave/base.json"
+    },
+    {
+      "id": "the_vault:pirate_caves/base",
+      "name": "Pirate Caves Base 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/pirate_caves/base.json"
+    },
+    {
       "id": "the_vault:universal_wendarr_normal",
       "name": "Universal Wendarr",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_wendarr_normal.json"
@@ -1005,6 +1020,11 @@
       "id": "the_vault:generic/spawners/challenge_xmark_mobs",
       "name": "Challenge X-Mark Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_xmark_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/pirate_mobs",
+      "name": "Pirate Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/pirate_mobs.json"
     },
     {
       "id": "the_vault:generic/spawners/challenge_crystal_violet_mobs",

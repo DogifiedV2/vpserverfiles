@@ -60,6 +60,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/waystones"
     },
+    "Advanced Peripherals": {
+      "x": 680,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/advanced_peripherals"
+    },
     "Stack Upgrading": {
       "x": 200,
       "y": -40,
@@ -114,6 +120,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botania"
     },
+    "Botanical Machinery": {
+      "x": 580,
+      "y": 80,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/botanical_machinery"
+    },
     "Botania Flux Field": {
       "x": 490,
       "y": 40,
@@ -133,7 +145,7 @@
       "icon": "the_vault:gui/researches/thermal_expansion"
     },
     "Create": {
-      "x": 250,
+      "x": 200,
       "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/create"
@@ -240,6 +252,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/cagerium"
     },
+    "Hostile Neural Networks": {
+      "x": 200,
+      "y": 360,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/hostile_neural_networks"
+    },
     "Mob Spawners": {
       "x": 250,
       "y": 320,
@@ -259,7 +277,7 @@
       "icon": "the_vault:gui/researches/phytogenic_insulator"
     },
     "Automatic Genius": {
-      "x": 60,
+      "x": 250,
       "y": 160,
       "frameType": "STAR",
       "icon": "the_vault:gui/researches/automatic_genius"
@@ -275,6 +293,18 @@
       "y": 200,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/entangled"
+    },
+    "Computer Craft": {
+      "x": 60,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/computercraft"
+    },
+    "LaserIO": {
+      "x": 60,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/laserio"
     },
     "Integrated Dynamics": {
       "x": 10,

@@ -4,6 +4,10 @@
     "reference": "the_vault:vault/rooms/challenge/crystal_caves_void"
   },
   {
+    "weight": 50,
+    "reference": "the_vault:vault/rooms/challenge/pirate_cave"
+  },
+  {
     "weight": 3,
     "reference": "the_vault:vault/rooms/challenge/dragon"
   },

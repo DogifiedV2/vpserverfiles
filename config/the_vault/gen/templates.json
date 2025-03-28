@@ -8,6 +8,14 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/challenge/pirate_cave1",
+      "name": "Pirate Caves 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/pirate_cave1.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/decor/generic/common/3x3/standing1",
       "name": "Standing1 Common 3x3 Generic Decor",
       "1.0": {

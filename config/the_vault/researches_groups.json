@@ -21,7 +21,9 @@
         "Mekanism QIO",
         "Create Crafts and Additions",
         "Time in a Bottle",
-        "Digital Waystones"
+        "Digital Waystones",
+        "Botanical Machinery",
+        "Advanced Peripherals"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -50,7 +52,8 @@
         "Mob Spawners",
         "Phytogenic Insulator",
         "Bonsai Trees",
-        "Botany Pots"
+        "Botany Pots",
+        "Hostile Neural Networks"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -129,7 +132,9 @@
           "Iron Furnaces",
           "Dark Utilities",
           "Entangled",
-          "Integrated Dynamics"
+          "Integrated Dynamics",
+          "Computer Craft",
+          "LaserIO"
         ],
         "globalCostIncrease": 0.0,
         "groupCostIncrease": {
