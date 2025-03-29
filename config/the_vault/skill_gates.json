@@ -135,6 +135,16 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Botanical Machinery": {
+        "dependsOn": [{ "type": "constant", "id": "Botania" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Advanced Peripherals": {
+        "dependsOn": [{ "type": "constant", "id": "Computer Craft" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
       "Mixtures": {
         "dependsOn": [{ "type": "constant", "id": "Potions" }],
         "ignoreArrow": true,

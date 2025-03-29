@@ -10,7 +10,7 @@
       "minUses": 20,
       "maxUses": 30,
       "config": {
-        "curiosSlot": "red_trinket"
+        "curiosSlot": "blue_trinket"
       }
     },
     "the_vault:cat_in_a_jar": {

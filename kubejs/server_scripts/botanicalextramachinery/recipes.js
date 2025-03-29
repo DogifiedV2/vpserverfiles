@@ -67,7 +67,7 @@ onEvent("recipes", event => {
                 "item": "botanicalextramachinery:shadow_ingot"
             },
             {
-                "item": "the_vault:sublime_vault_substance"
+                "item": "the_vault:chromatic_steel_block"
             },
             {
                 "item": "the_vault:gem_pog"
@@ -95,7 +95,7 @@ onEvent("recipes", event => {
                 "item": "botania:dragonstone"
             },
             {
-                "item": "the_vault:vault_essence_1"
+                "item": "woldsvaults:compressed_vault_essence"
             }
         ],
         "output": [
@@ -115,7 +115,7 @@ onEvent("recipes", event => {
                 "item": "botanicalextramachinery:malachite_dragonstone"
             },
             {
-                "item": "the_vault:vault_essence_1"
+                "item": "woldsvaults:compressed_vault_essence"
             }
         ],
         "output": [
@@ -184,7 +184,7 @@ onEvent("recipes", event => {
             'IPI',
             'BBB'
         ], {
-        R: 'the_vault:vault_ingot_1',
+        R: 'the_vault:vault_diamond_block',
         I: 'botanicalextramachinery:saffron_ingot',
         B: 'botanicalextramachinery:saffron_dragonstone_block',
         P: 'botanicalextramachinery:base_mana_pool'
@@ -208,7 +208,7 @@ onEvent("recipes", event => {
             'IPI',
             'BBB'
         ], {
-        R: 'the_vault:vault_ingot_1',
+        R: 'the_vault:vault_diamond_block',
         I: 'botanicalextramachinery:saffron_ingot',
         B: 'botanicalextramachinery:saffron_dragonstone_block',
         P: 'botanicalextramachinery:base_runic_altar'
@@ -232,7 +232,7 @@ onEvent("recipes", event => {
             'IPI',
             'BBB'
         ], {
-        R: 'the_vault:vault_ingot_1',
+        R: 'the_vault:vault_diamond_block',
         I: 'botanicalextramachinery:saffron_ingot',
         B: 'botanicalextramachinery:saffron_dragonstone_block',
         P: 'botanicalextramachinery:base_daisy'
@@ -256,7 +256,7 @@ onEvent("recipes", event => {
             'IPI',
             'BBB'
         ], {
-        R: 'the_vault:vault_ingot_1',
+        R: 'the_vault:vault_diamond_block',
         I: 'botanicalextramachinery:saffron_ingot',
         B: 'botanicalextramachinery:saffron_dragonstone_block',
         P: 'botanicalextramachinery:base_apothecary'
@@ -270,7 +270,7 @@ onEvent("recipes", event => {
         ], {
         R: 'the_vault:vault_diamond_block',
         I: 'botanicalextramachinery:malachite_ingot',
-        B: 'botanicalextramachinery:malachite_dragonstone_block',
+        B: 'the_vault:chromatic_steel_block',
         P: 'botanicalmachinery:industrial_agglomeration_factory'
     }).id('botanicalextramachinery:base_industrial_agglomeration_factory')
 
@@ -280,11 +280,35 @@ onEvent("recipes", event => {
             'IPI',
             'BBB'
         ], {
-        R: 'the_vault:vault_ingot_1',
+        R: 'the_vault:vault_diamond_block',
         I: 'botanicalextramachinery:saffron_ingot',
-        B: 'botanicalextramachinery:saffron_dragonstone_block',
+        B: 'the_vault:chromatic_steel_block',
         P: 'botanicalextramachinery:base_industrial_agglomeration_factory'
-    }).id('botanicalextramachinery:upgradedindustrial_agglomeration_factory')
+    }).id('botanicalextramachinery:upgraded_industrial_agglomeration_factory')
+
+    event.shaped(Item.of('botanicalextramachinery:advanced_industrial_agglomeration_factory'),
+        [
+            'RIR',
+            'IPI',
+            'BBB'
+        ], {
+        R: 'the_vault:vault_diamond_block',
+        I: 'botanicalextramachinery:shadow_ingot',
+        B: 'the_vault:black_chromatic_steel_block',
+        P: 'botanicalextramachinery:upgraded_industrial_agglomeration_factory'
+    }).id('botanicalextramachinery:advanced_industrial_agglomeration_factory')
+
+    event.shaped(Item.of('botanicalextramachinery:ultimate_industrial_agglomeration_factory'),
+        [
+            'RIR',
+            'IPI',
+            'BBB'
+        ], {
+        R: 'the_vault:echo_pog',
+        I: 'botanicalextramachinery:crimson_ingot',
+        B: 'the_vault:black_chromatic_steel_block',
+        P: 'botanicalextramachinery:advanced_industrial_agglomeration_factory'
+    }).id('botanicalextramachinery:ultimate_industrial_agglomeration_factory')
 
     event.shaped(Item.of('botanicalextramachinery:base_alfheim_market'),
         [
@@ -304,7 +328,7 @@ onEvent("recipes", event => {
             'IPI',
             'BBB'
         ], {
-        R: 'the_vault:vault_ingot_1',
+        R: 'the_vault:vault_diamond_block',
         I: 'botanicalextramachinery:saffron_ingot',
         B: 'botanicalextramachinery:saffron_dragonstone_block',
         P: 'botanicalextramachinery:base_alfheim_market'
@@ -368,6 +392,27 @@ onEvent("recipes", event => {
         P: 'botanicalextramachinery:ultimate_mana_pool',
         W: 'woldsvaults:wold_star'
     }).id('botanicalextramachinery:catalyst_mana_infinity')
+    
+    event.shaped(Item.of('botania:life_essence', 4),
+        [
+            'MDM',
+            'DBD',
+            'MDM'
+        ], {
+        M: 'botania:manasteel_ingot',
+        D: 'botania:mana_diamond',
+        B: 'the_vault:black_chromatic_steel_ingot'
+    }).id('botanicalextramachinery:base_orechid')
+    
+        event.shaped(Item.of('botania:gaia_ingot'),
+        [
+            ' X ',
+            ' A',
+            ' X '
+        ], {
+        X: 'the_vault:chromatic_steel_ingot',
+        A: 'botania:terrasteel_ingot'
+    }).id('botania:gaia_ingot')
 
 
 
