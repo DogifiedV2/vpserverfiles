@@ -17741,6 +17741,10 @@ file = "world/serverconfig/commoncapabilities-server.toml"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
+file = "world/serverconfig/computercraft-server.toml"
+hash = "8a77aee67981335b00d0d4f41069117641c682456d42f74facef336be066fb0f"
+
+[[files]]
 file = "world/serverconfig/corpse-server.toml"
 hash = "7fd1025fe4f2c5f05cdd8ac2cccbfaaea336a855e0ab97fb923c627d4a1a4a0a"
 
