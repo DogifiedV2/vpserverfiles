@@ -73,6 +73,10 @@
     ],
     "UNIQUE": [
       "the_vault:gear/armor/atomatic",
+      "the_vault:gear/armor/champion",
+      "the_vault:gear/armor/developerset",
+      "the_vault:gear/armor/darkcheesewarrior",
+      "the_vault:gear/armor/goblin",
       "the_vault:gear/armor/botania",
       "the_vault:gear/armor/builder",
       "the_vault:gear/armor/cake",
@@ -159,6 +163,7 @@
     ],
     "UNIQUE": [
       "the_vault:gear/sword/chainsword",
+      "the_vault:gear/sword/dweller_sword",
       "the_vault:gear/sword/baseball_bat",
       "the_vault:gear/sword/alliumblade",
       "the_vault:gear/sword/dark_blade",
@@ -212,6 +217,8 @@
     "UNIQUE": [
       "the_vault:gear/axe/greathammer",
       "the_vault:gear/axe/evil_mace",
+      "the_vault:gear/axe/dweller_axe",
+      "the_vault:gear/axe/developer_ducky",
       "the_vault:gear/axe/tiny_hammer",
       "the_vault:gear/axe/janitors_broom",
       "the_vault:gear/axe/big_choppa",
@@ -295,6 +302,7 @@
       "the_vault:gear/wand/baguette",
       "the_vault:gear/wand/carrot_on_a_wand",
       "the_vault:gear/wand/carri_king",
+      "the_vault:gear/wand/backscratcher",
       "the_vault:gear/wand/soul",
       "the_vault:gear/wand/infernos_reach",
       "the_vault:gear/wand/chaining_wand"

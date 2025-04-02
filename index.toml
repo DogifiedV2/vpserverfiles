@@ -338,7 +338,7 @@ hash = "1063d6884ac4e54cbcfdf6701af882e6b9be04fbbc436447f6a9a8912267456d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "895059b3939cf28f92c53a602d7ce095621d69e9271c36ca8efabc462e5edf01"
+hash = "e0e3b318175a64d68b384617710d91fdc773ec71bd58e153a7e9b574b7d504d3"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
@@ -17558,7 +17558,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.15.2.3663.jar"
-hash = "6dfabb9c92701a378c8338fc8971e4ffa0a5a62b3f372f4b81e1fd07edf5ab2d"
+hash = "f0f63ac9c4b89537c4ef0795d5bd2d23e9bae26c85db61316cfbec269b8c7477"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
