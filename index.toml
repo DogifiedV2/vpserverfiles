@@ -90,7 +90,7 @@ hash = "4918984dfbce7e4310feeb3f2d303f621e38e1990d9f44bceada39808363eccf"
 
 [[files]]
 file = "config/the_vault/ascension_forge.json"
-hash = "a7882ebca064f87d0e61f5f899afe41a74bdec26944f5cbf63562407835fc773"
+hash = "2b21cce004c1f5159be68509ffa8052fcb4a8af2e92438f5957ca126777e5eb8"
 
 [[files]]
 file = "config/the_vault/augment.json"
@@ -12858,7 +12858,7 @@ hash = "d85bedaea64b531105b27f7a0643ba47039bc3584e44c7eb838292e8bd4f011e"
 
 [[files]]
 file = "config/the_vault/player_titles.json"
-hash = "556aa30fb98c04b26d9492d8f4033dead18cada40c0ab1cea03e9977d3990fc5"
+hash = "4353e2872c49532c81065e278dbd07a1b860baa36f34fd3e0f9321d98db08a24"
 
 [[files]]
 file = "config/the_vault/points_reset.json"
@@ -13054,7 +13054,7 @@ hash = "1e2724878ad05931b9a1184be59e75e0d1299cc755db387da0da3211efe9ce74"
 
 [[files]]
 file = "config/the_vault/trinket.json"
-hash = "268c62b08bb81737002a03a2a881d8f36f41f38be6e1424f823501d77cd38302"
+hash = "4585b810f53c6f14cad86e3bc46d432b9f30dcdac9f1163883dbb4990971f774"
 
 [[files]]
 file = "config/the_vault/unidentified_relic_fragments.json"
@@ -17094,7 +17094,7 @@ hash = "9426fda1c9373a2317aa9f377185301ad2474d3536073c3177eba4b8b71d74ee"
 
 [[files]]
 file = "mods/ccvault-1.1.5-3.15.jar"
-hash = "29325a5dd35a3e9c28982a09a71f5c2275d3f403c1190e33c7a5d05a995b29a7"
+hash = "1785f329b0d50c77bd9dfa1e58b2dfe816c7a4da00b1bcaf01705c2f04a87da3"
 
 [[files]]
 file = "mods/cfm-7.0.0-pre35-1.18.2.jar"
@@ -17558,7 +17558,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.15.2.3663.jar"
-hash = "f0f63ac9c4b89537c4ef0795d5bd2d23e9bae26c85db61316cfbec269b8c7477"
+hash = "1f16cf37fbd75fa9d30648b8708adfe083ac1ee8ef84fdc78c8ea27eb9f6abcb"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
@@ -17597,8 +17597,8 @@ file = "mods/unobtainium-1.10.2.jar"
 hash = "3483dc588fe218f61367e79d05c60a344dc2739953429e4392f137959e3dd729"
 
 [[files]]
-file = "mods/vault_curios_enhancements-1.4.jar"
-hash = "8b36021b0159e475649fdeaefc94ddfb76149cd07129077b14936f89763149fd"
+file = "mods/vault_curios_enhancements-1.5.jar"
+hash = "162eb7c34de5c330030ce376e40b45be151642a7f25a5ce9c825d0c0e7f59bb7"
 
 [[files]]
 file = "mods/vault_hunters_better_junk_controller-1.2.1.jar"

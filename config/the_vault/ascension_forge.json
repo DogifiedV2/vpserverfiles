@@ -263,7 +263,7 @@
     {
       "stack": {
         "item": "the_vault:title_scroll",
-        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_geezer\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Geezer\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_geezer\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The GEeezer\",\"color\":\"#AAAAAA\"}]}\u0027}}"
       },
       "cost": 2	
     },
@@ -393,7 +393,435 @@
       },
       "cost": 2	
     },
-
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"demonic\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Demonic\",\"color\":\"#480404\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"gothic\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Gothic\",\"color\":\"#000000\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"high_priestess\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"High Priestess\",\"color\":\"#f3dc69\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"princess\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Princess\",\"color\":\"#480404\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"totally_not_a\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Totally Not A\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"chief\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Chief\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"sage\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Sage\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"knight\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Knight\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"cardmaster\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Cardmaster\",\"color\":\"#800080\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"definitely_not\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Definitely not\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"dr_shaman\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Dr. Shaman\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"prof\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Prof.\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"dr_baron\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Dr. Baron\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"his_majesty\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"His Majesty\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"her_majesty\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Her Majesty\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"PREFIX\",TitleId:\"caffeine_addict\", display:{Name:\u0027{\"text\":\"Prefix Title: \", \"extra\":[{\"text\":\"Caffeine Addict\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_gremlin\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Gremlin\",\"color\":\"#444444\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_rat\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Rat\",\"color\":\"#3b3630\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_sorceress\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Sorceress\",\"color\":\"#3e0fa4\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_hexed\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Hexed\",\"color\":\"#480404\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_hag\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Hag\",\"color\":\"#41280c\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_enchantress\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Enchantress\",\"color\":\"#3e0fa4\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_familiar\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Familiar\",\"color\":\"#444444\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_jinx\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Jinx\",\"color\":\"#1b32c2\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_pagan\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Pagan\",\"color\":\"#480404\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_witch\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Witch\",\"color\":\"#000000\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_lurker\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Lurker\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_afker\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The AFKer\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_bot\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The bot\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_npc\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The npc\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_clueless\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Clueless\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_scientist\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Scientist\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_cursed\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Cursed\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_void_walker\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Void Walker\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"builder_of_bases\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"Builder of Bases\",\"color\":\"#FFA500\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_confused\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Confused\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_starchild\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Starchild\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_dragon_tamer\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Dragon Tamer\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_voluptuous\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Voluptuous\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_meager\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Meager\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_miser\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Miser\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_tin_man\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Tin Man\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_wanderer\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Wanderer\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"from_tech_support\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"From Tech Support\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"from_customer_support\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"From Customer Support\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_mailman\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Mailman\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_hedge_knight\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Hedge Knight\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_sleepy\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Sleepy\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_builder\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Builder\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_mechanic\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Mechanic\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_loot_goblin\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Loot Goblin\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_gremlin\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Gremlin\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_bingo_queen\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Bingo Queen\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
+    
+    {
+      "stack": {
+        "item": "the_vault:title_scroll",
+        "nbt": "{Affix:\"SUFFIX\",TitleId:\"the_gambler\", display:{Name:\u0027{\"text\":\"Suffix Title: \", \"extra\":[{\"text\":\"The Gambler\",\"color\":\"#AAAAAA\"}]}\u0027}}"
+      },
+      "cost": 2	
+    },
 
 
     {

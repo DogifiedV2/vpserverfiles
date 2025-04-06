@@ -246,6 +246,227 @@
           }
         },
         "cost": 1
+      },
+      "vampiric": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Vampiric ",
+            "color": "#480404"
+          },
+          "CHAT": {
+            "text": "Vampiric ",
+            "color": "#480404"
+          }
+        },
+        "cost": 1
+      },
+      "demonic": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Demonic ",
+            "color": "#480404"
+          },
+          "CHAT": {
+            "text": "Demonic ",
+            "color": "#480404"
+          }
+        },
+        "cost": 1
+      },
+      "gothic": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Gothic ",
+            "color": "#000000"
+          },
+          "CHAT": {
+            "text": "Gothic ",
+            "color": "#000000"
+          }
+        },
+        "cost": 1
+      },
+      "high_priestess": {
+        "display": {
+          "TAB_LIST": {
+            "text": "High Priestess ",
+            "color": "#f3dc69"
+          },
+          "CHAT": {
+            "text": "High Priestess ",
+            "color": "#f3dc69"
+          }
+        },
+        "cost": 1
+      },
+      "princess": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Princess ",
+            "color": "#480404"
+          },
+          "CHAT": {
+            "text": "Princess ",
+            "color": "#480404"
+          }
+        },
+        "cost": 1
+      },
+      "totally_not_a": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Totally Not A ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Totally Not A ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "chief": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Chief ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Chief ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "sage": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Sage ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Sage ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "knight": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Knight ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Knight ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "cardmaster": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Cardmaster ",
+            "color": "#800080"
+          },
+          "CHAT": {
+            "text": "Cardmaster ",
+            "color": "#800080"
+          }
+        },
+        "cost": 1
+      },
+      "definitely_not": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Definitely Not ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Definitely Not ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "dr_shaman": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Dr. Shaman ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Dr. Shaman ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "prof": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Prof. ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Prof. ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "dr_baron": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Dr. Baron ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Dr. Baron ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "his_majesty": {
+        "display": {
+          "TAB_LIST": {
+            "text": "His Majesty ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "His Majesty ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "her_majesty": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Her Majesty ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Her Majesty ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "caffeine_addict": {
+        "display": {
+          "TAB_LIST": {
+            "text": "Caffeine Addict ",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": "Caffeine Addict ",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
       }
     },
     "SUFFIX": {
@@ -529,6 +750,500 @@
           },
           "CHAT": {
             "text": " of the Ancients",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_gremlin": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Gremlin",
+            "color": "#444444"
+          },
+          "CHAT": {
+            "text": " The Gremlin",
+            "color": "#444444"
+          }
+        },
+        "cost": 1
+      },
+      "the_rat": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Rat",
+            "color": "#3b3630"
+          },
+          "CHAT": {
+            "text": " The Rat",
+            "color": "#3b3630"
+          }
+        },
+        "cost": 1
+      },
+      "the_sorceress": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Sorceress",
+            "color": "#3e0fa4"
+          },
+          "CHAT": {
+            "text": " The Sorceress",
+            "color": "#3e0fa4"
+          }
+        },
+        "cost": 1
+      },
+      "the_hexed": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Hexed",
+            "color": "#480404"
+          },
+          "CHAT": {
+            "text": " The Hexed",
+            "color": "#480404"
+          }
+        },
+        "cost": 1
+      },
+      "the_hag": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Hag",
+            "color": "#41280c"
+          },
+          "CHAT": {
+            "text": " The Hag",
+            "color": "#41280c"
+          }
+        },
+        "cost": 1
+      },
+      "the_enchantress": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Enchantress",
+            "color": "#3e0fa4"
+          },
+          "CHAT": {
+            "text": " The Enchantress",
+            "color": "#3e0fa4"
+          }
+        },
+        "cost": 1
+      },
+      "the_familiar": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Familiar",
+            "color": "#444444"
+          },
+          "CHAT": {
+            "text": " The Familiar",
+            "color": "#444444"
+          }
+        },
+        "cost": 1
+      },
+      "the_jinx": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Jinx",
+            "color": "#1b32c2"
+          },
+          "CHAT": {
+            "text": " The Jinx",
+            "color": "#1b32c2"
+          }
+        },
+        "cost": 1
+      },
+      "the_pagan": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Pagan",
+            "color": "#480404"
+          },
+          "CHAT": {
+            "text": " The Pagan",
+            "color": "#480404"
+          }
+        },
+        "cost": 1
+      },
+      "the_witch": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Witch",
+            "color": "#000000"
+          },
+          "CHAT": {
+            "text": " The Witch",
+            "color": "#000000"
+          }
+        },
+        "cost": 1
+      },
+      "the_lurker": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Lurker",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Lurker",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_afker": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The AFKer",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The AFKer",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_bot": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Bot",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Bot",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_npc": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The NPC",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The NPC",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_clueless": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Clueless",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Clueless",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_scientist": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Scientist",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Scientist",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_cursed": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Cursed",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Cursed",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_void_walker": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Void Walker",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Void Walker",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "builder_of_bases": {
+        "display": {
+          "TAB_LIST": {
+            "text": " Builder of Bases",
+            "color": "#FFA500"
+          },
+          "CHAT": {
+            "text": " Builder of Bases",
+            "color": "#FFA500"
+          }
+        },
+        "cost": 1
+      },
+      "the_confused": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Confused",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Confused",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_starchild": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Starchild",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Starchild",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_dragon_tamer": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Dragon Tamer",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Dragon Tamer",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_voluptuous": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Voluptuous",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Voluptuous",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_meager": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Meager",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Meager",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_miser": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Miser",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Miser",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_tin_man": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Tin Man",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Tin Man",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_wanderer": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Wanderer",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Wanderer",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "from_tech_support": {
+        "display": {
+          "TAB_LIST": {
+            "text": " From Tech Support",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " From Tech Support",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "from_customer_support": {
+        "display": {
+          "TAB_LIST": {
+            "text": " From Customer Support",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " From Customer Support",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_mailman": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Mailman",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Mailman",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_hedge_knight": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Hedge Knight",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Hedge Knight",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_sleepy": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Sleepy",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Sleepy",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_builder": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Builder",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Builder",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_mechanic": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Mechanic",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Mechanic",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_loot_goblin": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Loot Goblin",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Loot Goblin",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_gremlin2": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Gremlin",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Gremlin",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_bingo_queen": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Bingo Queen",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Bingo Queen",
+            "color": "#AAAAAA"
+          }
+        },
+        "cost": 1
+      },
+      "the_gambler": {
+        "display": {
+          "TAB_LIST": {
+            "text": " The Gambler",
+            "color": "#AAAAAA"
+          },
+          "CHAT": {
+            "text": " The Gambler",
             "color": "#AAAAAA"
           }
         },
