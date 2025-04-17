@@ -132,6 +132,24 @@
             "learnPointCost": 4,
             "regretpointcost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:speed",
+            "amplifier": 3,
+            "learnPointCost": 4,
+            "regretpointcost": 0,
+            "unlockLevel": 0,
+            "minimumPrestige": 1
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:speed",
+            "amplifier": 4,
+            "learnPointCost": 4,
+            "regretpointcost": 0,
+            "unlockLevel": 0,
+            "minimumPrestige": 1
           }
         ]
       },

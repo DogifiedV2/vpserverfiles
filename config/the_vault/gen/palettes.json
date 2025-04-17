@@ -1522,6 +1522,16 @@
       "1.0": "config/the_vault/gen/1.0/palettes/mush_room/fairy.json"
     },
     {
+      "id": "the_vault:treasure_rooms/echo_rooms",
+      "name": "Echo Rooms",
+      "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/echo_rooms.json"
+    },
+    {
+      "id": "the_vault:treasure_rooms/echo_treasure_chest",
+      "name": "Echo Treasure Chest",
+      "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/echo_treasure_chest.json"
+    },
+    {
       "id": "the_vault:chaos/mush_room/base",
       "name": "Chaos Mush Room",
       "1.0": "config/the_vault/gen/1.0/palettes/chaos/mush_room/base.json"

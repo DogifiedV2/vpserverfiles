@@ -131,6 +131,16 @@
             "abandonedPenaltyReduction": 0.9376,
             "maxActive": 2,
             "unlockLevel": 0
+          },
+          {
+            "type": "bounty_hunter",
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "waitingPeriodReduction": 5400,
+            "abandonedPenaltyReduction": 0.9376,
+            "maxActive": 3,
+            "unlockLevel": 0,
+            "minimumPrestige": 1
           }
         ]
       },
@@ -276,6 +286,22 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "mystic",
+            "additionalCrystalVolume": 40,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0,
+            "minimumPrestige": 1
+          },
+          {
+            "type": "mystic",
+            "additionalCrystalVolume": 50,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0,
+            "minimumPrestige": 1
           }
         ]
       },
@@ -417,6 +443,22 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "fortuitous_finesse",
+            "extraLegendaryChance": 0.03,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0,
+            "minimumPrestige": 1
+          },
+          {
+            "type": "fortuitous_finesse",
+            "extraLegendaryChance": 0.04,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0,
+            "minimumPrestige": 1
           }
         ]
       }

@@ -46,6 +46,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/challenge/crystal_caves.json"
     },
     {
+      "id": "the_vault:vault/treasure_doors/echo_room",
+      "name": "Echo Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/echo_room.json"
+    },
+    {
       "id": "the_vault:vault/rooms/nonparadox/wendarr/challenge/dragon",
       "name": "Wendarr Dragon",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/challenge/dragon.json"

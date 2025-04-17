@@ -48,6 +48,14 @@
       }
     },
     {
+      "id": "the_vault:vault/treasure_rooms/echo",
+      "name": "Echo 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/treasure_rooms/echo.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/decor/generic/common/3x3/standing5",
       "name": "Standing5 Common 3x3 Generic Decor",
       "1.0": {

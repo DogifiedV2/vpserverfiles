@@ -91,6 +91,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_0.json"
     },
     {
+      "id": "the_vault:treasure_chest_echo",
+      "name": "Treasure Chest Echo",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_echo.json"
+    },
+    {
       "id": "the_vault:treasure_chest_lvl50",
       "name": "Treasure Chest Lvl50",
       "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
